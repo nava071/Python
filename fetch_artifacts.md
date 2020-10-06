@@ -2,6 +2,7 @@ This script is to fetch the files pushed to artifactory after building from jenk
 
 Typical Output:
 
+```
 Enter the repo (release, master, prod):release
 Build created when (5minutes,10minutes,1d):1d
 
@@ -18,3 +19,5 @@ File2namepatternfile2   2020-10-06T09:57:32.388Z   98989898989898989898989898989
 
 Press  any key to continue...
 Process finished with exit code 0
+
+```
