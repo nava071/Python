@@ -1,0 +1,9 @@
+{
+  "prefix": "repo_prefix",
+  "prefix_image": "repo_prefix_image",
+  "files": [
+    "File1namepattern",
+    "File2namepattern"
+  ],
+  "files_image": "File1imagenamepattern"
+}
