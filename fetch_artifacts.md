@@ -15,8 +15,6 @@ File2namepatternfile1   2020-10-06T09:53:32.388Z   98989898989898989898989898989
 File2namepatternfile2   2020-10-06T09:57:32.388Z   9898989898989898989898989898989898989233
 ----------------------------------
 
- /syn   release,File1namepatternfile2,File2namepatternfile2,None,None,None,None,None 
-
 Press  any key to continue...
 Process finished with exit code 0
 
